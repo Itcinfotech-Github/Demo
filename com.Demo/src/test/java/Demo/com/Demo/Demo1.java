@@ -7,7 +7,7 @@ public class Demo1 {
 		
 		System.out.println("Hello");
 		
-		System.out.println("Hello Satyajit Samal");
+		System.out.println("Hello Satyajit Samal Local");
 
 	}
 
